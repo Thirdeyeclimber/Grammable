@@ -79,6 +79,9 @@ gem 'simple_form'
 # Devise for Authentication
 gem 'devise'
 
+# Factory bot for TDD
+gem "factory_bot_rails"
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
