@@ -82,6 +82,9 @@ gem 'devise'
 # Factory bot for TDD
 gem "factory_bot_rails"
 
+# Photo Uploading
+gem 'carrierwave', '~> 2.0'
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
