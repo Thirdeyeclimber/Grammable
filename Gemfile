@@ -85,6 +85,12 @@ gem "factory_bot_rails"
 # Photo Uploading
 gem 'carrierwave', '~> 2.0'
 
+# Secure Configuration Keys
+gem "figaro"
+
+# figaro dependent for Amazon web services
+gem 'fog-aws'
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
