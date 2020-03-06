@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple instagram clone built with html, css, js, ajax, PostgreSQL and Ruby.
 
-Things you may want to cover:
+<h3>Deployed with Heroku at <a href="https://grammable-michael-day.herokuapp.com/">Live Demo</a></h3>
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![screenshot](app/assets/images/screenshot.png)
