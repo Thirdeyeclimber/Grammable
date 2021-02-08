@@ -83,7 +83,7 @@ gem 'devise'
 gem "factory_bot_rails"
 
 # Photo Uploading
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 
 # Secure Configuration Keys
 gem "figaro"
